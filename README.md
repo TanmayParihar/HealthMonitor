@@ -8,7 +8,7 @@
 
 *An intelligent real-time health monitoring system using STM32 Black Pill*
 
-[Features](#features) • [Hardware](#hardware-requirements) • [Installation](#installation) • [Usage](#usage) • [Connections](#pin-connections)
+[Features](#-features) • [Hardware](#-hardware-requirements) • [Installation](#️-installation) • [Usage](#-usage) • [Connections](#-pin-connections)
 
 </div>
 

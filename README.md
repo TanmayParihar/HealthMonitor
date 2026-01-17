@@ -98,8 +98,8 @@ This project is a comprehensive health monitoring system built on the **STM32F40
 ┌─────────────────────────────────────────┐
 │         STM32F401CCU6 Black Pill        │
 │                                         │
-│  PB7  ────────── I2C SDA (MLX90614)    │
-│  PB8  ────────── I2C SCL (MLX90614)    │
+│  PB7  ────────── I2C SDA (MLX90614)     │
+│  PB8  ────────── I2C SCL (MLX90614)     │
 │                                         │
 │  PA0  ────────── Microphone (Analog)    │
 │  PA1  ────────── ECG Signal (Analog)    │
